@@ -42,3 +42,35 @@ button:hover{
 div h1{
     color: white;
 }
+@media (max-width:370px){
+    input{
+        border-radius: 15px;
+        border: 3px solid #fff;
+        font-size: 28px;
+        height: 45px;
+        width: 280px;
+    }
+    button{
+        color: #fff;
+        font-size: 35px;
+        width: 70px;
+        height: 50px;
+        margin: 4px;
+        border: 1px solid #fff;
+        box-shadow: 5px 5px 10px #ff4321;
+        border-radius: 10px;
+        background-image: linear-gradient(to bottom right, #ff4321 , pink);
+        
+    }
+    button:hover{
+        box-shadow: 5px 5px 5px pink;
+    }
+    
+    .calculator{
+        border: 2px solid #fff;
+        /* background-color: #ff99f7; */
+        padding: 18px;
+        border-radius: 43px;
+        display: inline-block;
+    }
+}
