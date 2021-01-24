@@ -44,17 +44,17 @@ div h1{
 }
 @media (max-width:370px){
     input{
-        border-radius: 15px;
+        border-radius: 10px;
         border: 3px solid #fff;
-        font-size: 28px;
-        height: 45px;
-        width: 280px;
+        font-size: 25px;
+        height: 41px;
+        width: 260px;
     }
     button{
         color: #fff;
         font-size: 35px;
-        width: 60px;
-        height: 45px;
+        width: 50px;
+        height: 35px;
         margin: 4px;
         border: 1px solid #fff;
         box-shadow: 5px 5px 10px #ff4321;
