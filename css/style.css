@@ -52,18 +52,19 @@ div h1{
     }
     button{
         color: #fff;
-        font-size: 35px;
-        width: 50px;
-        height: 35px;
-        margin: 4px;
+        font-size: 25px;
+        width: 45px;
+        height: 30px;
+        margin: 3px;
         border: 1px solid #fff;
         box-shadow: 5px 5px 10px #ff4321;
-        border-radius: 10px;
+        border-radius: 8px;
         background-image: linear-gradient(to bottom right, #ff4321 , pink);
         
     }
     button:hover{
         box-shadow: 5px 5px 5px pink;
+        background-image: linear-gradient(to bottom right,  pink, #ff4321);
     }
     
     .calculator{
